@@ -1,6 +1,6 @@
+![A Full Stack Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIFGoXQer0nsZS3DXUsMCjTE1KOPKpmtMiQ&usqp=CAU)
 ### Hi there 👋, I am Pritiraj Partho
 #### A Full Stack Web Developer
-![A Full Stack Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIFGoXQer0nsZS3DXUsMCjTE1KOPKpmtMiQ&usqp=CAU)
 
 I love to do coding. As a Programmer it's my passion. I prioritize clean, maintainable code and emphasize user-centric design principles. I like to learn new technology and update my skills. I am confident in my ability to contribute positively to any web development project. My strategy is simple, start coding and enjoy it. HTML, CSS, Javascript, React.js, Tailwind.css, Bootstrap, and Node.js are my strong side.
 
@@ -20,8 +20,6 @@ Skills:  JS / HTML / CSS/React.js/Taiwind.css/Bootstrap.css/Node.js/Express.js/M
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PritrirajPartho)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritrirajPartho&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PritrirajPartho)  
 
 ![GitHub metrics](https://metrics.lecoq.io/PritrirajPartho)  
 
