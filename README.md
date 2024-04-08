@@ -21,7 +21,5 @@ Skills:  JS / HTML / CSS/React.js/Taiwind.css/Bootstrap.css/Node.js/Express.js/M
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PritrirajPartho&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/PritrirajPartho)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=PritrirajPartho)  
 
