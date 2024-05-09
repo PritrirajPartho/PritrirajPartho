@@ -4,7 +4,7 @@
 
 I love to do coding. As a Programmer it's my passion. I prioritize clean, maintainable code and emphasize user-centric design principles. I like to learn new technology and update my skills. I am confident in my ability to contribute positively to any web development project. My strategy is simple, start coding and enjoy it. HTML5, CSS3, Javascript, React.js,Tailwind.css,Bootstrap.css,Node.js,Express.js and MongoDB are my strong side.
 
-Skills:  JS/HTML5/CSS3/React.js/Next.js(basic)/Taiwind.css/Bootstrap.css/Node.js/Express.js/MongoDB/Firebase/JWT/Axios/AOS/React-router/DaisyUi/React-query/Postman
+Skills:  JS/HTML5/CSS3/React.js/Next.js(basic)/Tailwind.css/Bootstrap.css/Node.js/Express.js/MongoDB/Firebase/JWT/Axios/AOS/React-router/DaisyUi/React-query/Postman
 
 - 🔭 I’m currently working on Skills Building 
 - 🌱 I’m currently learning Redux and JQuery
