@@ -1,4 +1,4 @@
-![A Full Stack Web Developer](https://www.canva.com/design/DAGCjOmS1qY/FzHq2CGdq-epr4iODb_EcQ/edit?utm_content=DAGCjOmS1qY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![A Full Stack Web Developer](https://i.ibb.co/k6d32G2/pritiraj-partho-linkedin-background.png)
 ### Hi there 👋, I am Pritiraj Partho
 #### A Full Stack Web Developer
 
