@@ -1,4 +1,4 @@
-![A Full Stack Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIFGoXQer0nsZS3DXUsMCjTE1KOPKpmtMiQ&usqp=CAU)
+![A Full Stack Web Developer]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMIFGoXQer0nsZS3DXUsMCjTE1KOPKpmtMiQ&usqp=CAU](https://www.canva.com/design/DAGCjOmS1qY/FzHq2CGdq-epr4iODb_EcQ/edit?utm_content=DAGCjOmS1qY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 ### Hi there 👋, I am Pritiraj Partho
 #### A Full Stack Web Developer
 
